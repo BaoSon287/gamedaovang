@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1710077560 source:c:\users\user\desktop\laptrinhgame\main.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"graphics.h"
+	"defs.h"
+	"game.h"
+
+1710077624 c:\users\user\desktop\laptrinhgame\graphics.h
+	<SDL.h>
+	<SDL_image.h>
+	"defs.h"
+
+1709978856 c:\users\user\desktop\laptrinhgame\defs.h
+
+1709978921 c:\users\user\desktop\laptrinhgame\logic.h
+
+1710077583 c:\users\user\desktop\laptrinhgame\game.h
+
